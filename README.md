@@ -79,6 +79,7 @@ You can show your support via:
   - [Lumo](./Open%20Source%20prompts/Lumo/)
   - [Gemini CLI](./Open%20Source%20prompts/Gemini%20CLI/)
 - [**CodeBuddy**](./CodeBuddy%20Prompts/)
+- [**E-Book Reader App**](./E-Book%20Reader%20App/)
 
 ---
 
